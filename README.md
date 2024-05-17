@@ -13,8 +13,8 @@ We developed predictive models to classify countries into low, moderate, and hig
 
 ## Installation
 
-1. Clone the repository: git clone #
-2. Install the required Python packages: pip install -r requirements.txt
+1. Clone the repository: `git clone https://github.com/aniket2468/Disease-Outbreaks-Prediction.git`
+2. Install the required Python packages: `pip install -r requirements.txt`
 
 
 ## Data Collection
@@ -24,7 +24,7 @@ The primary datasets include:
 
 ## Usage
 Run the Jupyter notebook to execute the analysis:
-jupyter notebook 'Disease Prediction.ipynb'
+jupyter notebook `Disease Prediction.ipynb`
 
 
 ## Methods
